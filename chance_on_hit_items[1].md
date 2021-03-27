@@ -1,5 +1,4 @@
-# Classic WoW Armaments: Chance on Hit Items 
-Discord link:https://discord.gg/twxBWfud
+# Chance on Hit Items 
 
 ## Vanilla
 
