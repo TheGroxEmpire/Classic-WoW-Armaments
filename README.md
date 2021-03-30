@@ -3,6 +3,10 @@ Welcome! Classic WoW Armaments is a project to assemble all the info that you ca
 
 Discord link: https://discord.gg/twxBWfud
 
+## How to find information
+
+Just click on any of the file in this repo (e.g., chance_on_hits.md) to find the information you desire.
+
 ## FAQ
 1.  What is a Proc?
 A proc is an effect or ability that happens without player input. These can be random chance ("I got 3 Thunderfury procs in a row!") or expected ("I got the killing blow so that I could proc Spirit Tap").
