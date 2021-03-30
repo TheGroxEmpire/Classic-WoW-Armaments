@@ -3,9 +3,12 @@ Welcome! Classic WoW Armaments is a project to assemble all the info that you ca
 
 Discord link: https://discord.gg/twxBWfud
 
-## How to find information
+## How to find information here
 
-Just click on any of the file in this repo (e.g., chance_on_hits.md) to find the information you desire.
+Just click on any of the file in this repo to find the information you desire:
+- ``chance_on_hit_items.md``: Information regarding special effects from hit from weapons, consumables, buffs, etc.
+- ``mind_control.md``: Information regarding mobs with special ability upon being mind controlled.
+- ``out_of_ordinary_items.md``: Information regarding items that has special or unique effects.
 
 ## FAQ
 1.  What is a Proc?
@@ -18,7 +21,7 @@ PPM is the average number of procs per minute of any random item or ability, bas
 "Spellpower" is shorthand for the "+Spell Damage and Healing" stat. The "+Healing" stat can sometimes be referred to as "Healing Power".
 
 4. Does <item> scale with Spell Damage?
-All weapons that scale with Spell Damage are listed in #weapons, everything else can be found in #armor-and-trinkets and #consumables. Nothing else in the game scales with Spell Damage, everything's been verified with the database.
+All weapons, armor, trinkets, and consumables that scale with Spell Damage are listed in ``chance_on_hits.md``. Nothing else in the game scales with Spell Damage, everything's been verified with the database.
 
 5.  Can this crit? 
 All Damage-Over-Time and Channeled abilities cannot crit, everything else can.
